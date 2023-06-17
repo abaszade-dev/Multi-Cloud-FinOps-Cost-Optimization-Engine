@@ -79,12 +79,5 @@ To replicate the optimization results within a cloud-hosted Python environment, 
 2. **Environment Setup**: Upload the scripts located in the `/code` directory (or a compressed `project.zip`) to your Colab session.
 3. **Execution**: Run the master orchestration script using `!python main.py`. The engine will sequentially process all 15 scenarios and generate CSV evidence reports for visualization.
 
----
-
-## 👤 Author Information
-* **Author**: Kyrylo Brykov
-* **Degree**: Bachelor of Science in Information and Communication Technology (ICT)
-* **Institution**: Bydgoszcz University of Science and Technology (Politechnika Bydgoska), 2026
-* **Specialization**: Deterministic Optimization, Cloud FinOps, and Business Intelligence Analytics
 
 ---
